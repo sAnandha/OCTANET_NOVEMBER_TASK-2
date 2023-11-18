@@ -1,0 +1,38 @@
+
+
+### Development Tasks
+
+1. *Task: Implement Responsive Design*
+   - Deadline: 3 Days
+   - Priority: High
+   - Label: Development, Urgent
+   - Description: Ensure the website is responsive across various devices for a seamless user experience.
+
+2. *Task: Optimize Page Load Speed*
+   - Deadline: 2 Day 
+   - Priority: High
+   - Label: Development, Performance
+   - Description: Improve website performance by optimizing images, scripts, and server response times.
+
+3. *Task: Fix Video Embedding Issue*
+   - Deadline: 1 day 
+   - Priority: Medium
+   - Label: Development, Bug Fix
+   - Description: Resolve the issue with the embedded YouTube video not displaying properly.
+
+### Design Tasks
+
+4. *Task: Select Color Scheme and Fonts*
+   - Deadline: 1 Day
+   - Priority: Medium
+   - Label: Design, Styling
+   - Description: Finalize the color scheme and fonts to maintain a consistent and attractive design throughout the site.
+
+### Content Tasks
+
+5. *Task: Review and Update About Us Section*
+   - Deadline: 1 day 
+   - Priority: Medium
+   - Label: Content, Editing
+   - Description: Review and update the content in the "About Us" section for accuracy and engagement.
+
